@@ -238,3 +238,11 @@ AWS Certified Solutions Architect Associate (SAA-C03)
 *Project 2 of 3 in my AWS Portfolio*
 *Project 1: RetailSync — Serverless Inventory Pipeline*
 *Project 3: ShopReady — Multi-Region Disaster Recovery (Coming Soon)*
+
+## Screenshots:
+<img width="1584" height="803" alt="image" src="https://github.com/user-attachments/assets/f77e6d58-898a-486b-8f4d-71043d2e899c" />
+<img width="1584" height="803" alt="image" src="https://github.com/user-attachments/assets/77555d64-dc99-4ddd-8135-3956ad9579d3" />
+<img width="1920" height="818" alt="image" src="https://github.com/user-attachments/assets/5a376f8d-dc03-4b5b-b378-1526586af87c" />
+
+
+
